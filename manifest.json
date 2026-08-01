@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "Lines rise slowly through the frame, pulling into focus out of a blur and dissolving back into one on the way out.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
